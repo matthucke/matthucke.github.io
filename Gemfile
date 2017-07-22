@@ -37,3 +37,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
   #gem 'github-pages', versions['github-pages']
 #end
 
+gem 'jekyll-theme-tactile'

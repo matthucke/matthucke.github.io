@@ -24,7 +24,7 @@ github_username:  matthucke
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
