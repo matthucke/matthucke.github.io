@@ -25,15 +25,15 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'rouge'
+#gem 'rouge'
 
-source 'https://rubygems.org'
-
-require 'json'
-require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+#source 'https://rubygems.org'
+#
+#require 'json'
+#require 'open-uri'
+#versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 # puts "versions is #{versions.inspect}"
-group :jekyll_plugins do 
-  gem 'github-pages', versions['github-pages']
-end
+#group :jekyll_plugins do 
+  #gem 'github-pages', versions['github-pages']
+#end
 
