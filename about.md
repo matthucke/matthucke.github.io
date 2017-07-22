@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About
+feature_image: feature-kerry-sunrise.jpg
 permalink: /about/
+# footer: A blog about travel
 ---
 
-I'm **Matt Hucke**, a programmer and sysadmin in Seattle. 
+**Barbarian Engineer** is the programming blog of [Matt Hucke](/author/matt).
+It began in 2014 as a Ghost blog, but stagnated as Matt moved from Chicago to Seattle
+in 2015.  In July 2017 the blog was "revivified", reborn using Jekyll and hosted on 
+Github Pages.
 
-I'm also a photographer; view my work at [MattHPhoto.com](http://matthphoto.com) and
-[Flickr](https://www.flickr.com/photos/matthucke).
+All photographs are by Matt Hucke.
 
-Why "Barbarian Engineer"?  I've worked for small companies for most of my career,
-as the sole programmer.  With no one else to rely on, I've had to survive on 
-my own - like Conan, a wanderer on the fringes of civilization.
+The theme is "Lens" by Adventure Themes, available [themeforest.net:(https://themeforest.net/item/lens-personal-or-multi-author-jekyll-blog/17457429)
 
 

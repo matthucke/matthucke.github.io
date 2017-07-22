@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: post
 title:  "I Am a Barbarian"
-date:   2017-07-22 10:16:05 -0700
-#categories: personal history
+date:   2014-11-27 10:00:00 -0700
+categories: personal
+author_slug: matt
+is_featured: false
+feature_image: feature-dry-falls.jpg
 ---
 
 I am a barbarian - a wanderer, on the fringes of civilization.

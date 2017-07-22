@@ -2,11 +2,11 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
+# yourself editing these this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -16,28 +16,19 @@
 title: Barbarian Engineer
 email: hucke@cynico.net
 description: > # this means to ignore newlines until "baseurl:"
-  Notes from a solitary programmer in the Northwest.
+  Notes from a solitary programmer in the Northwest
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: matthucke
-github_username:  matthucke
+url: "" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
-# highlighter: rouge
+nav_list:
+  Home : ['Home', '/']
+  About : ['About', '/about']
+  Matt: [ 'Matt Hucke', '/author/matt']
+  #Travel : ['Travel', '/category/travel']
+  #Inspiration : ['Inpiration', '/category/inspiration']
+  # Contact : ['Contact', '/contact/']
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

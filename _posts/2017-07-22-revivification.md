@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: post
 title:  "Revivification"
 date:   2017-07-22 10:16:05 -0700
-#categories: personal history
+categories: personal
+author_slug: matt
+is_featured: false
+feature_image: feature-kerry-sunrise.jpg
 ---
 
 Hello again, world.

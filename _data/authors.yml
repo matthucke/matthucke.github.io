@@ -1,0 +1,22 @@
+matt:
+    name: Matt
+    slug: matt-hucke
+    url: https://barbarian.engineer
+    bio: Programmer and photographer. Migrated from Chicago to Seattle.
+    location: Seattle, WA
+    avatar_image: matt.jpg
+    cover_image: feature-tree-of-life.jpg
+    permalink: /author/matt
+    twitter_url: http://twitter.com/matthucke
+    facebook_url: http://facebook.com/matt.r.hucke
+    instagram_url: http://instagram.com/matthucke
+    #tumblr_url: http://tumblr.com/matthucke
+    #dribbble_url: http://dribbble.com/matthucke
+    github_url: http://github.com/matthucke
+    #reddit_url: http://github.com/u/matthucke
+    #google_url: http://gogole.com/matthucke
+    #pintrest_url: http://example.com/matthucke
+    #vine_url: http://example.com/matthucke
+    #vimeo_url: http://example.com/matthucke
+    #snapchat_url: http://example.com/matthucke
+
