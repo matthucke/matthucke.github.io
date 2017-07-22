@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Revivification"
 date:   2017-07-22 10:16:05 -0700
 #categories: personal history
