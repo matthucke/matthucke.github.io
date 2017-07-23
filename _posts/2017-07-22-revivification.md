@@ -41,5 +41,13 @@ I didn't touch the blog for over two years.
 Now in July of 2017, comfortably settled in, I've decided to bring barbarian.engineer
 back to life. I'm still working for the same company (a mile from my old apartment in
 Chicago), using Google Hangouts to keep in touch. I'm still the sole programmer and
-sysadmin - thus still a barbarian!
+sysadmin.
+
+The 2014 version of this site was built with Ghost and hosted on Heroku.  The 2017
+version is built with Jekyll and deployed to Github Pages.  I've restored a few
+articles from the old version, but omitted those that dealt with its former hosting
+environment.
+
+The theme is "Lens" by Adventure Themes, available [themeforest.net:(https://themeforest.net/item/lens-personal-or-multi-author-jekyll-blog/17457429), selected because of its photo-centric design.
+
 

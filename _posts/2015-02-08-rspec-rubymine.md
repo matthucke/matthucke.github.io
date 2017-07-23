@@ -3,7 +3,8 @@ layout: post
 title:  "Spring and RSpec 3 in RubyMine"
 permalink: /2015/02/08/spring-rspec3-rubymine
 date:   2015-02-08 12:00:00 -0700
-categories: tools rubymine
+categories: tools testing
+tags: rubymine rspec rails
 author_slug: matt
 is_featured: false
 feature_image: feature-turtle-rock.jpg
